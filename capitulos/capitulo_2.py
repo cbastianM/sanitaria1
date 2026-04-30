@@ -9,7 +9,6 @@ import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
 import math
-from scipy.optimize import fsolve
 
 # Constantes
 K = 1e-6  # Rugosidad absoluta en metros (PVC)
